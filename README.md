@@ -36,7 +36,7 @@ Belgrade‑based dev who loves solving puzzles and building small projects to va
 
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=aleksastajic&icon=5&color=3)](https://visitcount.itsvg.in)
