@@ -34,9 +34,5 @@ Java & Spring Boot backends, REST API design, JPA/Hibernate, PostgreSQL transact
 ⚡ Fun fact  
 Belgrade‑based dev who loves solving puzzles and building small projects to validate ideas.
 
-
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal)
-
----
-[![](https://visitcount.itsvg.in/api?id=aleksastajic&icon=5&color=3)](https://visitcount.itsvg.in)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
