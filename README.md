@@ -1,6 +1,4 @@
-# Hi — I'm Aleksa Stajić 👋
-
-Final-year Software & Data Engineering student • Belgrade, Serbia  
+# Final-year Software & Data Engineering student • Belgrade, Serbia  
 Full‑stack developer and generalist who builds maintainable backends and clean frontends. I focus on data integrity, pragmatic architecture, and clear documentation. Open to internships and junior/full‑stack roles (remote or EU-based).
 
 ---
