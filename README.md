@@ -28,11 +28,5 @@ Mentorship on system design and observability, feedback on portfolio polish, and
 🌱 I’m currently learning  
 Distributed systems & observability, graph data modeling (Neo4j), advanced SQL, and backend scalability patterns.
 
-💬 Ask me about  
-Java & Spring Boot backends, REST API design, JPA/Hibernate, PostgreSQL transactional integrity, and building simple frontends with Angular/React.
-
-⚡ Fun fact  
-Belgrade‑based dev who loves solving puzzles and building small projects to validate ideas.
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
