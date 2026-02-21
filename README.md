@@ -10,7 +10,7 @@ Interested in **backend engineering** and **DevOps fundamentals**: clean APIs, d
 ---
 
 ## Core skills
-- Languages: Python · Java · JavaScript · TypeScript · C# · C++ · PHP · R  
+- Languages: Python · Java · JavaScript · TypeScript · C# · PHP 
 - Frameworks & libraries: Spring Boot · JPA/Hibernate · Angular · Next.js/React (basic) · .NET (basic) · Node.js (basic)  
 - Databases: PostgreSQL · MySQL · MongoDB · Neo4j  
 - Web & backend: REST APIs · MVC · HTML5/CSS3 · JSON  
